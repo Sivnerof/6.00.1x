@@ -1,3 +1,5 @@
+# Cube root approximation using Herons Method and bisectional search algorithm
+
 cube = 54
 epsilon = 0.01
 num_guesses = 0
