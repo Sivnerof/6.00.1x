@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 
 """
-Created on Wed Mar 30 21:43:14 2022
-
 @author: sivnerof
 
 See PDF in containing folder for problem set requirements
